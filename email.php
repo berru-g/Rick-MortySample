@@ -13,6 +13,4 @@ if (isset($_POST['submit'])) {
 }
 ?>
 
-<form action="email.php" method="post">
-                <textarea name="textarea" placeholder="ricky ticky tabby biatch"></textarea>
-                <input type="submit" class="button expanded" value="interdimensional sends." name="submit">
+
